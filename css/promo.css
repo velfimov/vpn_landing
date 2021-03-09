@@ -8,8 +8,13 @@
 .promo_img{
     background-image: url('/img/man_on_laptop.png');
     width: 612px;
+<<<<<<< HEAD
     height: 382px;
     background-repeat: no-repeat;
+=======
+    background-repeat: no-repeat;
+    height: 382px;
+>>>>>>> fae62fcacffc3321b07a922100fb5f91b72eab19
 }
 .promo_info{
     display: flex;

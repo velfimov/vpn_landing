@@ -45,7 +45,7 @@
     margin-top: 25px;
 }
 
-.features ul li {
+.features li {
     font-family: var(--mf);
     font-size: 14px;
     color: var(--dark-grey-color);
